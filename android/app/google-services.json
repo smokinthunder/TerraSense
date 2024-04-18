@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035664170299",
+    "project_id": "remote-ai",
+    "storage_bucket": "remote-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035664170299:android:ea4adbbcde14ba2e92eb1e",
+        "android_client_info": {
+          "package_name": "com.example.remoteai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXxTeLFp0caoC1gy4IjPU7H7l4370tuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
